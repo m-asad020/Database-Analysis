@@ -146,7 +146,7 @@ WHERE
 # Repository Structure
 
 ## SQL Queries: 
-The PO.sql file contains all the queries listed above.
+The `PO.sql` file contains all the queries listed above.
 
 ## Documentation: 
 This README file provides an overview of the project and the purpose of each query.
